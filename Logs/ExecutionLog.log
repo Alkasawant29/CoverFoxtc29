@@ -1,0 +1,132 @@
+2024-08-12 14:51:18,951 - coverFox -INFO - opening Browser
+2024-08-12 14:51:20,197 - coverFox -INFO - clicking on Gender Button
+2024-08-12 14:51:21,359 - coverFox -INFO - clicking on next button
+2024-08-12 15:05:54,842 - coverFox -INFO - opening Browser
+2024-08-12 15:05:56,385 - coverFox -INFO - clicking on Gender Button
+2024-08-12 15:05:58,453 - coverFox -INFO - clicking on next Button
+2024-08-12 15:06:00,610 - coverFox -WARN - age should be between 18 to 90
+2024-08-12 15:06:00,611 - coverFox -INFO - age is selected
+2024-08-12 15:06:00,655 - coverFox -INFO - clicking on next Button
+2024-08-12 15:06:02,780 - coverFox -WARN - enter valid pincode
+2024-08-12 15:06:02,780 - coverFox -INFO - entering pincode
+2024-08-12 15:06:02,860 - coverFox -WARN - enter valid mobile number
+2024-08-12 15:06:02,860 - coverFox -INFO - entering mobileno
+2024-08-12 15:06:02,926 - coverFox -INFO - click on next button
+2024-08-12 15:06:09,020 - coverFox -INFO - validating presence of sort plan
+2024-08-12 15:06:13,065 - coverFox -INFO - validating banners
+2024-08-12 15:06:13,235 - coverFox -INFO - closing browser
+2024-08-12 15:10:25,078 - coverFox -INFO - opening Browser
+2024-08-12 15:10:26,547 - coverFox -INFO - clicking on Gender Button
+2024-08-12 15:10:28,635 - coverFox -INFO - clicking on next Button
+2024-08-12 15:10:30,779 - coverFox -WARN - age should be between 18 to 90
+2024-08-12 15:10:30,779 - coverFox -INFO - age is selected
+2024-08-12 15:10:30,823 - coverFox -INFO - clicking on next Button
+2024-08-12 15:10:32,918 - coverFox -WARN - enter valid pincode
+2024-08-12 15:10:32,919 - coverFox -INFO - entering pincode
+2024-08-12 15:10:33,006 - coverFox -WARN - enter valid mobile number
+2024-08-12 15:10:33,006 - coverFox -INFO - entering mobileno
+2024-08-12 15:10:33,068 - coverFox -INFO - click on next button
+2024-08-12 15:10:43,315 - coverFox -INFO - validating banners
+2024-08-12 15:10:43,429 - coverFox -INFO - closing browser
+2024-08-19 09:31:26,063 - coverFox -INFO - opening Browser
+2024-08-19 09:31:27,755 - coverFox -INFO - clicking on Gender Button
+2024-08-19 09:31:29,928 - coverFox -INFO - clicking on next Button
+2024-08-19 09:31:32,266 - coverFox -WARN - age should be between 18 to 90
+2024-08-19 09:31:32,266 - coverFox -INFO - age is selected
+2024-08-19 09:31:32,390 - coverFox -INFO - clicking on next Button
+2024-08-19 09:31:34,618 - coverFox -WARN - enter valid pincode
+2024-08-19 09:31:34,618 - coverFox -INFO - entering pincode
+2024-08-19 09:31:34,774 - coverFox -WARN - enter valid mobile number
+2024-08-19 09:31:34,774 - coverFox -INFO - entering mobileno
+2024-08-19 09:31:34,917 - coverFox -INFO - click on next button
+2024-08-19 09:31:41,023 - coverFox -INFO - validating presence of sort plan
+2024-08-19 09:31:45,164 - coverFox -INFO - validating banners
+2024-08-19 09:31:45,360 - coverFox -INFO - closing browser
+2024-08-19 09:31:59,696 - coverFox -INFO - opening Browser
+2024-08-19 09:32:01,501 - coverFox -INFO - clicking on Gender Button
+2024-08-19 09:32:03,644 - coverFox -INFO - clicking on next Button
+2024-08-19 09:32:05,970 - coverFox -WARN - age should be between 18 to 90
+2024-08-19 09:32:05,970 - coverFox -INFO - age is selected
+2024-08-19 09:32:06,102 - coverFox -INFO - clicking on next Button
+2024-08-19 09:32:08,273 - coverFox -WARN - enter valid pincode
+2024-08-19 09:32:08,273 - coverFox -INFO - entering pincode
+2024-08-19 09:32:08,395 - coverFox -WARN - enter valid mobile number
+2024-08-19 09:32:08,396 - coverFox -INFO - entering mobileno
+2024-08-19 09:32:08,485 - coverFox -INFO - click on next button
+2024-08-19 09:32:14,623 - coverFox -INFO - validating presence of sort plan
+2024-08-19 09:32:18,807 - coverFox -INFO - validating banners
+2024-08-19 09:32:18,997 - coverFox -INFO - closing browser
+2024-08-19 09:33:14,517 - coverFox -INFO - opening Browser
+2024-08-19 09:33:16,133 - coverFox -INFO - clicking on Gender Button
+2024-08-19 09:33:18,247 - coverFox -INFO - clicking on next Button
+2024-08-19 09:33:20,501 - coverFox -WARN - age should be between 18 to 90
+2024-08-19 09:33:20,501 - coverFox -INFO - age is selected
+2024-08-19 09:33:20,605 - coverFox -INFO - clicking on next Button
+2024-08-19 09:33:22,796 - coverFox -WARN - enter valid pincode
+2024-08-19 09:33:22,797 - coverFox -INFO - entering pincode
+2024-08-19 09:33:22,903 - coverFox -WARN - enter valid mobile number
+2024-08-19 09:33:22,903 - coverFox -INFO - entering mobileno
+2024-08-19 09:33:22,986 - coverFox -INFO - click on next button
+2024-08-19 09:33:29,083 - coverFox -INFO - validating presence of sort plan
+2024-08-19 09:33:33,185 - coverFox -INFO - validating banners
+2024-08-19 09:33:33,425 - coverFox -INFO - closing browser
+2024-08-19 09:33:48,053 - coverFox -INFO - opening Browser
+2024-08-19 09:33:52,541 - coverFox -INFO - clicking on Gender Button
+2024-08-19 09:34:18,875 - coverFox -INFO - opening Browser
+2024-08-19 09:34:20,587 - coverFox -INFO - clicking on Gender Button
+2024-08-19 09:34:22,683 - coverFox -INFO - clicking on next Button
+2024-08-19 09:34:25,068 - coverFox -WARN - age should be between 18 to 90
+2024-08-19 09:34:25,070 - coverFox -INFO - age is selected
+2024-08-19 09:34:25,156 - coverFox -INFO - clicking on next Button
+2024-08-19 09:34:27,383 - coverFox -WARN - enter valid pincode
+2024-08-19 09:34:27,383 - coverFox -INFO - entering pincode
+2024-08-19 09:34:27,509 - coverFox -WARN - enter valid mobile number
+2024-08-19 09:34:27,509 - coverFox -INFO - entering mobileno
+2024-08-19 09:34:27,610 - coverFox -INFO - click on next button
+2024-08-19 09:34:33,749 - coverFox -INFO - validating presence of sort plan
+2024-08-19 09:34:37,873 - coverFox -INFO - validating banners
+2024-08-19 09:34:38,137 - coverFox -INFO - closing browser
+2024-08-19 09:34:52,767 - coverFox -INFO - opening Browser
+2024-08-19 09:36:11,916 - coverFox -INFO - opening Browser
+2024-08-19 09:36:13,694 - coverFox -INFO - clicking on Gender Button
+2024-08-19 09:36:15,840 - coverFox -INFO - clicking on next Button
+2024-08-19 09:36:18,124 - coverFox -WARN - age should be between 18 to 90
+2024-08-19 09:36:18,124 - coverFox -INFO - age is selected
+2024-08-19 09:36:18,190 - coverFox -INFO - clicking on next Button
+2024-08-19 09:36:20,307 - coverFox -WARN - enter valid pincode
+2024-08-19 09:36:20,307 - coverFox -INFO - entering pincode
+2024-08-19 09:36:20,420 - coverFox -WARN - enter valid mobile number
+2024-08-19 09:36:20,420 - coverFox -INFO - entering mobileno
+2024-08-19 09:36:20,510 - coverFox -INFO - click on next button
+2024-08-19 09:36:26,624 - coverFox -INFO - validating presence of sort plan
+2024-08-19 09:36:30,748 - coverFox -INFO - validating banners
+2024-08-19 09:36:30,987 - coverFox -INFO - closing browser
+2024-08-19 09:36:44,209 - coverFox -INFO - opening Browser
+2024-08-20 13:38:58,538 - coverFox -INFO - opening Browser
+2024-08-20 13:39:00,048 - coverFox -INFO - clicking on Gender Button
+2024-08-20 13:39:02,134 - coverFox -INFO - clicking on next Button
+2024-08-20 13:39:04,271 - coverFox -WARN - age should be between 18 to 90
+2024-08-20 13:39:04,272 - coverFox -INFO - age is selected
+2024-08-20 13:39:04,330 - coverFox -INFO - clicking on next Button
+2024-08-20 13:39:06,425 - coverFox -WARN - enter valid pincode
+2024-08-20 13:39:06,425 - coverFox -INFO - entering pincode
+2024-08-20 13:39:06,499 - coverFox -WARN - enter valid mobile number
+2024-08-20 13:39:06,499 - coverFox -INFO - entering mobileno
+2024-08-20 13:39:06,553 - coverFox -INFO - click on next button
+2024-08-20 13:39:12,669 - coverFox -INFO - validating presence of sort plan
+2024-08-20 13:39:16,725 - coverFox -INFO - validating banners
+2024-08-20 13:39:16,936 - coverFox -INFO - closing browser
+2024-08-20 13:49:49,590 - coverFox -INFO - opening Browser
+2024-08-20 13:49:51,082 - coverFox -INFO - clicking on Gender Button
+2024-08-20 13:49:53,145 - coverFox -INFO - clicking on next Button
+2024-08-20 13:49:55,304 - coverFox -WARN - age should be between 18 to 90
+2024-08-20 13:49:55,304 - coverFox -INFO - age is selected
+2024-08-20 13:49:55,352 - coverFox -INFO - clicking on next Button
+2024-08-20 13:49:57,440 - coverFox -WARN - enter valid pincode
+2024-08-20 13:49:57,440 - coverFox -INFO - entering pincode
+2024-08-20 13:49:57,506 - coverFox -WARN - enter valid mobile number
+2024-08-20 13:49:57,507 - coverFox -INFO - entering mobileno
+2024-08-20 13:49:57,558 - coverFox -INFO - click on next button
+2024-08-20 13:50:03,612 - coverFox -INFO - validating presence of sort plan
+2024-08-20 13:50:07,673 - coverFox -INFO - validating banners
+2024-08-20 13:50:07,845 - coverFox -INFO - closing browser

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[waiting...]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from property fileage]]>
+    </line>
+    <line>
+      <![CDATA[selecting age]]>
+    </line>
+    <line>
+      <![CDATA[click on next button]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from property filepincode]]>
+    </line>
+    <line>
+      <![CDATA[select Pincode]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from property filemobno]]>
+    </line>
+    <line>
+      <![CDATA[select mobilenumber]]>
+    </line>
+    <line>
+      <![CDATA[click on next button]]>
+    </line>
+    <line>
+      <![CDATA[ChecksortPlanTC execution started]]>
+    </line>
+    <line>
+      <![CDATA[validationBannersTC execution started]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-20T13:49:44 IST" name="Suite" finished-at="2024-08-20T13:50:07 IST" duration-ms="23659">
+    <groups>
+    </groups>
+    <test started-at="2024-08-20T13:49:44 IST" name="Test" finished-at="2024-08-20T13:50:07 IST" duration-ms="23659">
+      <class name="coverFoxTest.Listerner">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.Listerner@2a65fe7c]" started-at="2024-08-20T13:49:44 IST" name="launchBrowser" finished-at="2024-08-20T13:49:49 IST" duration-ms="5425" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+            <line>
+              <![CDATA[waiting...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:coverFoxTest.Listerner@2a65fe7c]" started-at="2024-08-20T13:49:49 IST" name="preconditions" finished-at="2024-08-20T13:49:59 IST" duration-ms="9914" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from property fileage]]>
+            </line>
+            <line>
+              <![CDATA[selecting age]]>
+            </line>
+            <line>
+              <![CDATA[click on next button]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from property filepincode]]>
+            </line>
+            <line>
+              <![CDATA[select Pincode]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from property filemobno]]>
+            </line>
+            <line>
+              <![CDATA[select mobilenumber]]>
+            </line>
+            <line>
+              <![CDATA[click on next button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="ChecksortPlan()[pri:0, instance:coverFoxTest.Listerner@2a65fe7c]" started-at="2024-08-20T13:49:59 IST" name="ChecksortPlan" finished-at="2024-08-20T13:50:03 IST" duration-ms="4038" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ChecksortPlanTC execution started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ChecksortPlan -->
+        <test-method signature="validationBanners()[pri:0, instance:coverFoxTest.Listerner@2a65fe7c]" started-at="2024-08-20T13:50:03 IST" name="validationBanners" finished-at="2024-08-20T13:50:07 IST" duration-ms="4055" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[validationBannersTC execution started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validationBanners -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:coverFoxTest.Listerner@2a65fe7c]" started-at="2024-08-20T13:50:07 IST" name="CloseBrowser" finished-at="2024-08-20T13:50:07 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- coverFoxTest.Listerner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

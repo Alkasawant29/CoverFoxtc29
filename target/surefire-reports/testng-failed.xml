@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="coverFoxUtility.Listener"/>
+    <listener class-name="coverFoxUtility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="coverFoxTest.Listerner">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="ChecksortPlan"/>
+          <include name="validationBanners"/>
+          <include name="preconditions"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- coverFoxTest.Listerner -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
